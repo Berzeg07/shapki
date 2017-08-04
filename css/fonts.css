@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "BebasNeueRegular";
+  src: url("../fonts/BebasNeueRegular/BebasNeueRegular.eot");
+  src: local("☺"), url("../fonts/BebasNeueRegular/BebasNeueRegular.woff") format("woff"), url("../fonts/BebasNeueRegular/BebasNeueRegular.ttf") format("truetype"), url("../fonts/BebasNeueRegular/BebasNeueRegular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "UniSansHeavyCAPS";
+  src: url("../fonts/UniSansHeavyCAPS/UniSansHeavyCAPS.eot");
+  src: local("☺"), url("../fonts/UniSansHeavyCAPS/UniSansHeavyCAPS.woff") format("woff"), url("../fonts/UniSansHeavyCAPS/UniSansHeavyCAPS.ttf") format("truetype"), url("../fonts/UniSansHeavyCAPS/UniSansHeavyCAPS.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "raleway-bold";
+  src: url("../fonts/raleway-bold/raleway-bold.eot");
+  src: local("☺"), url("../fonts/raleway-bold/raleway-bold.woff") format("woff"), url("../fonts/raleway-bold/raleway-bold.ttf") format("truetype"), url("../fonts/raleway-bold/raleway-bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
